@@ -1,0 +1,24 @@
+body {
+  margin:0;
+  background-color: powderblue;
+}
+.header {
+  text-align: center;
+  background-color: #ffcead;
+}
+h1 {
+  margin-top: 0;
+}
+.description {
+  background-color: green;
+}
+.contact-me {
+  text-align: center;
+  background-color: #ffcead;
+}
+.bottom-container {
+  text-align: center;
+}
+.functions {
+  background-color: #a7c4bc;
+}
